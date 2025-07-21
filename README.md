@@ -1,3 +1,5 @@
+THIS REPOSITORY IS OWNED BY @ahsanzizan on GitHub
+
 # Instagram to Telegram Summary Bot
 
 This Python script fetches the latest 5 posts from a public Instagram account and sends a summary (likes, comments, views, and caption preview) to a specified Telegram chat.
